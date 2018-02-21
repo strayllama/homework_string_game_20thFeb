@@ -1,0 +1,27 @@
+* { border: 1px solid red;} /*FOR TESTING*/
+
+body {
+/*background-image: url(bodgerandbadger_Grey.jpg);*/
+font-family: Arial, Times;
+}
+
+a.nav { text-decoration:none; font-family: Helvetica; }
+a.nav { text-decoration:none; cursor:pointer; }
+a.nav:link { color: rgb(100,100,100); }
+a.nav:visited { color: rgb(100,100,100); }
+a.nav:hover { color: rgb(180,180,180); }
+a.nav:active { color: rgb(180,180,180); }
+
+div {
+  width: 500px;
+  margin-left: 30px
+}
+
+h1 {
+}
+
+h2 {
+}
+
+h3 {
+}
